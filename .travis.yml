@@ -11,5 +11,5 @@ notifications:
     recipients:
       - aravind.kumaraguru@gmail.com
       - aravindkumaraguru@pioneers.berkeley.edu
-    on_success: change  # if CI succeeds, only sends notification if build changes
+    on_success: change  # if CI succeeds, only sends notification if build status changes
     on_failure: always  # if CI fails, always sends notification
