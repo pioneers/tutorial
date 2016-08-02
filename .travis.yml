@@ -1,0 +1,15 @@
+language: python
+python:
+  - '2.7'
+before_install:
+  - sudo apt-get update
+  - sudo apt-get install python-pip
+install: sudo apt-get install python-numpy
+script: nosetests duck_test.py
+notifications:
+  email:
+    recipients:
+      - aravind.kumaraguru@gmail.com
+      - aravindkumaraguru@pioneers.berkeley.edu
+    on_success: change
+    on_failure: always

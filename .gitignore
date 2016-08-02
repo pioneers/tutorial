@@ -1,0 +1,10 @@
+ *.__pycache__/
+__pycache__/
+*.pyc
+*.ok_messages
+*.ok_refresh
+*.swp
+.*.swp
+*.swo
+.*.swo
+*.ipynb_checkpoints
