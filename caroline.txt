@@ -1,1 +1,3 @@
-Hi, I"m Caroline. I'm a second year EECS major. 
+Hi, I"m Caroline. I'm a second year EECS major.
+
+Second git tutorial!
