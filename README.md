@@ -11,7 +11,6 @@ Github, and other websites such as gitlab and bitbucket, is a private comapany t
 
 The first command we are going to run is
 
-`cd`
 `git clone https://github.com/pioneers/tutorial.git` (Go ahead and copy and paste this into your terminal)
 
 This creates a copy of this repo (project) onto your local machine. Your local machine will always store its own version of the code, and Github will also stores a seperate version of the code (these could be the same version, if everything is up to date). Compare it to you having two copies of the a folder on your desktop. Now type 
