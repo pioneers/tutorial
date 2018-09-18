@@ -5,7 +5,7 @@ Welcome to PiE's git tutorial! Today we are going to learn hands-on how to use g
 
 ## Setup your local repo
 
-Git is the industry standard version control software. It allows developer to save and collobrate on their work.
+Git is the industry standard version control software. It allows developers to save and collobrate their work.
 
 Github, and other websites such as gitlab and bitbucket, is a private comapany that hosts developers's git repos online. PiE uses github to host all of its software.
 
@@ -40,7 +40,6 @@ This adds the file you just changed, and then commits it with a message. These m
 
 `git push origin gittutorial/YourName` (Replace YourName with what you typed earlier when you created the branch)
 
-[someone here sneak commits change eto yourNAme master]
 
 ## Pull Request and Code Review
 
